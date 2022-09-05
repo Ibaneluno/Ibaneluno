@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on everything blockchain related 
 - 📫 How to reach me, you can reach me on dispocr: iban111#5986 
 - follow me on twitter @iban_cuenca
+- I will start soon a blogpost 
 
 <!---
 Ibaneluno/Ibaneluno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
